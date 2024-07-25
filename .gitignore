@@ -1,0 +1,16 @@
+# Python virtual environment
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# CSV files
+*.csv
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Other files to ignore
+*.log
+*.tmp
