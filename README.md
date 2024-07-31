@@ -16,6 +16,7 @@ This project is primarily a proof of concept and test model. The predictions fro
 - Limited and possibly inaccurate data.
 - Simplistic approach using linear regression without more advanced techniques.
 - Preliminary preprocessing and feature engineering.
+- Less cleaning up and pre-processing of data.
 
 The results obtained are:
 - **Mean Absolute Error (MAE):** 0.0704
